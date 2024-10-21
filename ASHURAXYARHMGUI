@@ -1,0 +1,6 @@
+-- Now script requests are directly get from website
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Trex277/MM2Ash/refs/heads/main/TrueMain%3A)"))()
+
+
+-- TEMPORARY LOAD FROM GITHUB
+--loadstring(game:HttpGet("https://raw.githubusercontent.com/Trex277/MM2Ash/refs/heads/main/YRMGUi"))()
